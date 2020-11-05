@@ -25,3 +25,6 @@ telephone_booth-*.tar
 
 # Temporary files for e.g. tests
 /tmp
+
+# Rustler gen'd stuff
+/native/*/target
